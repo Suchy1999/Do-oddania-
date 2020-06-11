@@ -1,0 +1,6 @@
+1 Audi A6 OEM 500 2.5 0
+2 Honda Civic MTS 900 3.2 30
+3 Hyundai Coupe KYB 550 3.8 40
+4 FSO 125p OEM 200 1.8 0
+5 Renault Megane OEM 600 2 0  
+6 Suzuki Swift TATECHNICS 400 1.9 15
